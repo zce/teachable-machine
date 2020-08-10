@@ -51,7 +51,7 @@
     "stylus": "^0.54.5"
   },
   "devDependencies": {
-    "eslint": "^4.3.0",
+    "eslint": "^4.18.2",
     "pre-commit": "^1.2.2",
     "stylint": "^1.5.9"
   }
